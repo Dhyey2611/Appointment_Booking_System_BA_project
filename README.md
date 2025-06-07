@@ -1,19 +1,23 @@
-# Appointment Booking System – Business Analyst Project
+# Online Appointment Booking System – Business Analyst Project
 
-This project simulates the end-to-end business analysis process for an online appointment booking platform.
+This project showcases the end-to-end business analysis work for a digital appointment booking system designed for clinics. It includes:
 
-## Contents
-- 📄 Business Requirements Document (BRD)
-- 📄 Functional Requirements Document (FRD)
-- 📄 User Stories
-- 📊 Use Case & Process Flow Diagrams
-- 🧩 (Optional) Wireframes
+## 📄 Documents Included:
+- Scope and Stakeholder Matrix
+- BRD – Business Requirements Document
+- FRD – Functional Requirements Document
+- Use Case Diagram (UML)
+- Process Flow Diagram (Swimlane)
+- Agile User Stories
 
-## Tools Used
-- Microsoft Word (for documentation)
-- draw.io / Lucidchart (for diagrams)
-- Figma (for wireframes – optional)
+## 🧑‍💼 Roles Covered:
+- Patient
+- Receptionist
+- Doctor
+- Clinic Manager
 
-## Created by
-**Dhyey Patel** | Aspiring Technical Business Analyst
-
+## 🎯 Skills Demonstrated:
+- Requirement Gathering & Documentation
+- UML Modeling (Use Case & Process Flow)
+- Agile User Story Writing
+- Stakeholder Management
