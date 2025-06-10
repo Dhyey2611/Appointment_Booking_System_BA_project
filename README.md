@@ -9,6 +9,7 @@ This project showcases the end-to-end business analysis work for a digital appoi
 - Use Case Diagram (UML)
 - Process Flow Diagram (Swimlane)
 - Agile User Stories
+- Wireframes
 
 ## 🧑‍💼 Roles Covered:
 - Patient
@@ -21,3 +22,4 @@ This project showcases the end-to-end business analysis work for a digital appoi
 - UML Modeling (Use Case & Process Flow)
 - Agile User Story Writing
 - Stakeholder Management
+- WireFrames
