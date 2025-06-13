@@ -6,8 +6,10 @@ This project showcases the end-to-end business analysis work for a digital appoi
 - Scope and Stakeholder Matrix
 - BRD – Business Requirements Document
 - FRD – Functional Requirements Document
+- SRS - Software Requirement Specification
 - Use Case Diagram (UML)
 - Process Flow Diagram (Swimlane)
+- Gantt Chart
 - Agile User Stories
 - Wireframes
 
