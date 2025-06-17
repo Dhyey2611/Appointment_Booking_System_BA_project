@@ -25,3 +25,13 @@ This project showcases the end-to-end business analysis work for a digital appoi
 - Agile User Story Writing
 - Stakeholder Management
 - WireFrames
+
+## 🌐 Confluence-Based BA Documentation (Tool Usage Showcase)
+
+The following pages were created using **Atlassian Confluence** to simulate real-world BA documentation workflows during academic exposure:
+
+- [📘 Pre-Sales Summary – Online Appointment System](https://dhyeyapps.atlassian.net/wiki/x/FgAC)
+- [📙 Post-Sales Summary – Online Appointment System](https://dhyeyapps.atlassian.net/wiki/x/IQAC)
+- [📊 Effort Estimation (Excel Attached & Summarized)](https://dhyeyapps.atlassian.net/wiki/x/ewEB)
+
+These pages demonstrate BA contributions across the SDLC phases using collaborative documentation tools and effort tracking.
